@@ -1,8 +1,8 @@
 ## Howdy 🤠
 
-# My name is Emily!
+## My name is Emily!
 
-Currently I am a computer science and data science student at Old Dominion University!
+Currently, I am an undergraduate computer science and data science student at Old Dominion University!
 
 When I am not working on my assignments for school, I love to play video games and work on cars. 
 
