@@ -1,5 +1,12 @@
-## Hi there 👋
+## Howdy 🤠
 
+# My name is Emily!
+
+Currently I am a computer science and data science student at Old Dominion University!
+
+When I am not working on my assignments for school, I love to play video games and work on cars. 
+
+As I complete coding projects I will add them to my GitHub page to show off my work!
 <!--
 **emxily/emxily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
