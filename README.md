@@ -35,6 +35,7 @@ Introduces the concepts and techniques of object-oriented programming to student
   * number-guesser
   * all-15
   * zero-to-100
+  * Chain-Reaction
 
   <br />
 
